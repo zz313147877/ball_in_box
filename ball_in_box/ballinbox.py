@@ -1,6 +1,6 @@
 import math
 import random
-from validate import validate
+
 
 __all__ = ['ball_in_box']
 
